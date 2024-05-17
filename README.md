@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vanessa Becerra Zamorano</h1>
 <h3 align="center">learning about the wonderful world of programming</h3>
+<div align="center">
+  <img height="200" src="https://postimg.cc/WFFjCYd4"  />
+</div>
 
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
