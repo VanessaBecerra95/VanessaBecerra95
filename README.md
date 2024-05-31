@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a CIISA programming student from Chile<br><br>- 🔭 I’m working as math teacher<br>- 📚 I'm currently learning java and react<br>- ⚡ In my free time I play videogames and make desserts</p>
+<p align="left">I'm a CIISA programming student from Chile<br><br>- 🔭 I’m working as math teacher<br>- 📚 I'm currently learning java<br>- ⚡ In my free time I play videogames and make desserts</p>
 
 ###
 
