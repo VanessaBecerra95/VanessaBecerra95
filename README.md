@@ -29,15 +29,14 @@
 
 ###
 
-<p align="left">I'm a CIISA programming student from Chile<br><br>- 🔭 I’m working as math teacher<br>- 📚 I'm currently learning java and PHP<br>- ⚡ In my free time I play videogames and make desserts</p>
-
+<p align="left">I am a programming student passionate about software development, and I am currently specializing in Java, with a focus on learning best coding practices 💯.<br><br>- 🔭 I’m working as math teacher in AIEP<br>- 📚 I am a student at San Sebastian Professional Institute, currently in my second year studying programming. Additionally, I am undergoing training as a Full-Stack Java developer at Praxis Institute (bootcamp).<br>- ⚡ In my free time I play videogames and make desserts. <br>- 🧙‍♂️ My experience includes front-end development with HTML, CSS, and JavaScript, relational database management using SQL, and Java programming focused on object-oriented principles. I have learned to build dynamic web applications with JEE and the Spring framework <br>- 📫 You can contact me at the following email: va.becerrazamora@gmail.com  </p> 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -71,7 +70,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanessaBecerra95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
