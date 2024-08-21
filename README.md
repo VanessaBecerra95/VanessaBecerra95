@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a programming student passionate about software development, and I am currently specializing in Java, with a focus on learning best coding practices 💯.<br><br>- 🔭 I’m working as math teacher in AIEP<br>- 📚 I am a student at San Sebastian Professional Institute, currently in my second year studying programming. Additionally, I am undergoing training as a Full-Stack Java developer at Praxis Institute (bootcamp).<br>- ⚡ In my free time I play videogames and make desserts. <br>- 🧙‍♂️ My experience includes front-end development with HTML, CSS, and JavaScript, relational database management using SQL, and Java programming focused on object-oriented principles. I have learned to build dynamic web applications with JEE and the Spring framework <br>- 📫 You can contact me at the following email: va.becerrazamora@gmail.com  </p> 
+<p align="left">I'm a programming student passionate about software development, and I'm currently specializing in Java, with a focus on learning best coding practices 💯.<br><br>- 🔭 I work as math teacher at AIEP<br>- 📚 I am a student at San Sebastian Professional Institute, currently in my second year studying programming. Additionally, I'm undergoing training as a Full-Stack Java developer at Praxis Institute (bootcamp).<br>- ⚡ In my free time I play videogames and make desserts. <br>- 🧙‍♂️ My experience includes front-end development with HTML, CSS, and JavaScript, relational database management using SQL, and Java programming focused on object-oriented principles. I have learned to build dynamic web applications with JEE and the Spring framework <br>- 📫 You can contact me at the following email: va.becerrazamora@gmail.com  </p> 
 
 ###
 
